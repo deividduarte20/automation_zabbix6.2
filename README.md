@@ -7,7 +7,7 @@
 |---|
 
 ### Instale o pacote git
-apt install git -y
+`apt install git -y`
 
 ### Atenção este script deve ser executado no Debian 11
 
