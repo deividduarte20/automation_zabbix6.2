@@ -1,5 +1,4 @@
 # Instalação do zabbix 6.2 via shell script
-## Este repositório terá mais outras automações relacionadas a zabbix em breve 
 ### Atenção este script deve ser executado no Debian 11
 
 
